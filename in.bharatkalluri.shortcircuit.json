@@ -21,7 +21,7 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.gnome.org/Bharatkalluri/short-circuit.git",
-                    "commit": "f24460adfaf7b000e7468378592856421c489501"
+                    "commit": "fc6b720a1f12ab7b237a54bcdbc60356642cd3c7"
                 }
             ]
         }
