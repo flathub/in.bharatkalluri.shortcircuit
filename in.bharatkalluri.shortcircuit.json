@@ -1,7 +1,7 @@
 {
     "app-id" : "in.bharatkalluri.shortcircuit",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "42",
+    "runtime-version" : "45",
     "sdk" : "org.gnome.Sdk",
     "command" : "in.bharatkalluri.shortcircuit",
     "finish-args" : [
